@@ -12,7 +12,7 @@ Definitions and Comparison to MVC:
 * Lobby: This is where things get initialized for use by the application. HTTP request, cookies, configuration, dependency injection, routing and such. 
 * Office Directory: This object would be the request router.
 * Public / Front Office (Ex: IndexPublicOffice / IndexFrontOffice): This would be that class that would be analog for “Controller”.
-* Front Desk: This is a virtual name for methods, which would be the analog for “Action” in a “Controller”. 
+* Front Desk: Name for public methods, which would be the analog for “Action” in a “Controller”. 
 * Private / Back Office / Department (Ex: ?): Not “accessible” by the public. Typically does auxiliary work.
 * Utility Closet: This would be for utility classes, like a class that works with strings.
 * Data  /  Records Office (Ex: ?): A virtual grouping of the data departments, which are departments that deal with data, such as database related requests.
