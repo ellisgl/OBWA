@@ -25,4 +25,4 @@ Implementation Rules, Guidelines and Considerations:
 * Must adhere to the SOLID Principles. https://en.wikipedia.org/wiki/SOLID
 * Must adhere to the “Seven Virtues of a Good Object”. https://www.yegor256.com/2014/11/20/seven-virtues-of-good-object.html
 * Must not use the term or name “Back Door”.
-* Should avoid things that are controversial in nature, like ORMs, template engines that include logic, etc.
+* Should avoid things that are controversial in nature, like ORMs, template engines that include logic, and so on.
