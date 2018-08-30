@@ -1,4 +1,4 @@
-# Office Building Web Architecture (OWBA)
+# Office Building Web Architecture (OBWA)
 **This article is still in draft, so not all ideas, concepts, naming conventions and etc. have been fully fleshed out and will be changing/evolving/improving.**
 
 This document aims to describe a (hopefully) new architecture, along with a set of rules for implementation, that will provide more separations of concerns (layers) that will be well defined. This architecture and rule set will try to make implementations stay more true to the classical definition of Object Oriented (OO) programming and should help steer towards “best practices”, like SOLID.
